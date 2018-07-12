@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<type link='text/css',rel='stylesheet',href='assa.css'/>
+<h1>JANE DOETTE</h1>
+<h2>FRONT END NINJA</h2>
+<h3>Featured Work</h3>
+</head>
+<img src="meta.jpg"/>
+<div>
+<img src="appify.jpg"/>
+<img src="sunflower.jpg" class="sun"/>
+<img src="bokeh.jpg"/>
+</div>
+
+<h2>APPIFY  SUNFLOWER  BOKEH</h2>
+</html>
+
